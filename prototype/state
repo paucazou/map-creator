@@ -1,2 +1,6 @@
 Graduation: graduation2.py is satisfying. We just must add the possibility to switch from metres to centimetres until 1cm = 1cm. Scrolling to zoom is satisfying too, but the zoom itself does not meet the goal
 Drawing: figure-drawing-app.py is satisfying. There are little problems to fix, but the whole is good.
+map-elements contains good ideas, but not perfect
+vector-zooming-efficient-memory: good for loading chunks of the map only
+keep-same-width: a line has the same width on the screen, whatever the zoom is. Satisfying
+
